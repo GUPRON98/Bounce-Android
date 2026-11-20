@@ -1,0 +1,9 @@
+build/
+android.jar
+*.idsig
+*.unaligned.apk
+.DS_Store
+*.log
+
+# Allow official release APK
+!Bounce.apk
